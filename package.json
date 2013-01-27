@@ -1,5 +1,5 @@
 {
-  "name": "mortar",
+  "name": "tinkle",
   "version": "0.0.1",
   "dependencies": {
     "volo-ghdeploy": "0.0.3",
@@ -9,7 +9,8 @@
   "amd": {},
   "volo": {
     "dependencies": {
-      "zepto": "github:madrobby/zepto/v0.8"
+      "zepto": "github:madrobby/zepto/v0.8",
+      "package": "local:/home/terrasea/Projects/mozilla/tinkle/package.json"
     },
     "baseUrl": "www/js/lib"
   }
